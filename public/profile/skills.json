@@ -4,14 +4,13 @@
      
             "title": "Languages & Databases",
             "items" : [
-     
                 {
                     "icon": "images/skills/java.png",
                     "title": "Java"
                 },
                 {
-                    "icon": "images/skills/php.png",
-                    "title": "PHP"
+                  "icon": "images/skills/kotlin.jpeg",
+                  "title": "Kotlin"
                 },
                 {
                     "icon": "images/skills/js.png",
@@ -20,10 +19,26 @@
                 {
                     "icon": "images/skills/python.png",
                     "title": "Python"
+                },                
+                {
+                  "icon": "images/skills/c-plus-plus.svg",
+                  "title": "C++"
+                },
+                {
+                  "icon": "images/skills/html.png",
+                  "title": "HTML5"
+                },
+                {
+                  "icon": "images/skills/css.png",
+                  "title": "CSS3"
                 },
                 {
                     "icon": "images/skills/mysql.png",
                     "title": "MySQL"
+                },
+                {
+                  "icon": "images/skills/mongo-db.png",
+                  "title": "MongoDB"
                 }
         ]},
         {
@@ -57,6 +72,22 @@
                 {
                     "icon": "images/skills/docker.png",
                     "title": "Docker"
+                },
+                {
+                  "icon": "images/skills/vscode.png",
+                  "title": "Visual Studio Code"
+                },
+                {
+                  "icon": "images/skills/intellij.png",
+                  "title": "IntelliJ"
+                },
+                {
+                  "icon": "images/skills/eclipse.png",
+                  "title": "Eclipse"
+                },
+                {
+                  "icon": "images/skills/postman.png",
+                  "title": "Postman"
                 }
             ]
     }

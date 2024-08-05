@@ -1,33 +1,22 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
+            "title": "Software Engineer Consultant (Associate)",
+            "subtitle": "Infosys Ltd",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Attained internal certifications of Spring Associate and Software Programmer, mastering software engineering principles, methodologies, and tools via rigorous training programs",
+                "Actively engaged in simulated project scenarios, workshops and coding exercises to hone technical skills and remain updated with industry-standard frameworks and technologies"
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "06/2022 – 07/2023"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Teaching Assistant",
+            "subtitle": "UMN Department of Computer Science & Engineering",
             "workDescription": [
-                "Worked on abc."
+                "Facilitated weekly interactive lab and office hour sessions, providing hands-on guidance to over 180 students in Python programming fundamentals, debugging, and problem-solving strategies",
+                "Assisted development of course materials like homework, lab write-ups, quizzes, exams to align with curriculum standards while ensuring clarity and cohesiveness for the learning experience"
             ],
-            "dateText": "01/20XX – 05/20XX"
-        },
-        {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
-            "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
-            ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "01/2022 – 05/2022"
         }
     ]
 }
